@@ -1,1 +1,1 @@
-# Python_pratice_codes
+# Python_practice_codes
